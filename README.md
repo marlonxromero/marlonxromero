@@ -65,9 +65,4 @@ Each chart includes tooltips and filters to allow interactive exploration of the
 
 ---
 
-## Future Improvements
-- Add forecasting to anticipate return rates in upcoming quarters.  
-- Segment analysis by customer demographics to identify patterns.  
-- Include advanced parameters for more flexible user-driven analysis.  
 
----
